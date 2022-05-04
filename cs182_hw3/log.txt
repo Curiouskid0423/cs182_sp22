@@ -1,0 +1,7 @@
+cuda:8
+Model is on: [8, 9]
+Training for 80 epoch, batch size 512, lr=0.0005, weight_decay=0.01
+network config: 32 by 2 layers.
+Epoch: 0 Iteration: 100% Loss: 3.557128739356995 Accuracy: 0.059348144382238385
+Epoch: 1 Iteration: 100% Loss: 3.486103057861328 Accuracy: 0.057302803918719294
+Epoch: 2 Iteration: 100% Loss: 3.5079392433166503 Accuracy: 0.05615951605141163
